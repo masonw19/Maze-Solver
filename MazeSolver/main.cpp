@@ -2,5 +2,5 @@
 
 int main()
 {
-    process();
+    start();
 }
