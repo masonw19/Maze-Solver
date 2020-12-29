@@ -28,4 +28,8 @@ The output from the maze-solver program must display:
 
 There are only 2 solutions: 1->2->3->4->5, and 1->2->1->7->3->4->5->4->5.
 
-1->2->1->7->3->4->5->4->3->2->1->7->3->4->5->4->5 is NOT a solution because this path loops.
+1->2->3->4->5->4->3->7->1->2->3->4->5 is NOT a solution because this path loops.
+
+For this maze, the program will output a result like this:
+
+![example_output display](screenshots/example_output.png)
