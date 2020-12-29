@@ -4,4 +4,5 @@ C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\MazeSol
 C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\MazeSolver.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
   main.cpp
   Generating Code...
+  LINK : C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\Debug\MazeSolver.exe not found or not built by the last incremental link; performing full link
   MazeSolver.vcxproj -> C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\Debug\MazeSolver.exe
