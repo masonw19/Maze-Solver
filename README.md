@@ -24,8 +24,4 @@ The output from the maze-solver program must display:
 
 # Example
 
-12345
-*1*5*
-*734*
-**8**
-54399*
+![example display](screenshots/example.png)
