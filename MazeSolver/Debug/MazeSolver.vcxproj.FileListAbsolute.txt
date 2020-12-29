@@ -1,0 +1,2 @@
+C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\Debug\MazeSolver.exe
+C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\Debug\MazeSolver.pdb

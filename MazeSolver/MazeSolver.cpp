@@ -78,6 +78,7 @@ maze_cell** getMaze(std::ifstream& mazefile, int* dimensions) {
 		std::cout << '\n';
 	}
 	std::cout << '\n';
+
 	return mymaze;
 }
 
@@ -115,6 +116,7 @@ void getPaths(maze_cell** mymaze, int* pathcount, std::string& pathstring, std::
 	}
 	mymaze[row][col].visited = false;	// unvisit the cell after we return so that this cell is not blocked off from other paths
 	pathstring.pop_back();				// pop the last element in the string
+
 	return;
 }
 
@@ -127,6 +129,8 @@ void getshortestpath(std::vector <std::string>& allstringpaths) {
 	}
 
 	std::cout << "Shortest path: " << allstringpaths[shortest] << '\n';
+
+	return;
 }
 
 void getcheapestpath(std::vector <std::string>& allstringpaths) {
@@ -150,4 +154,6 @@ void getcheapestpath(std::vector <std::string>& allstringpaths) {
 	
 	std::cout << "Cheapest path: " << allstringpaths[count_index] << '\n';
 	std::cout << "Cheapest path cost: " << shortest_count << "\n\n";
+	
+	return;
 }

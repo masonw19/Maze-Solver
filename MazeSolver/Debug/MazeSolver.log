@@ -1,0 +1,7 @@
+﻿  MazeSolver.cpp
+C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\MazeSolver.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\MazeSolver.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\MazeSolver.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  MazeSolver.vcxproj -> C:\Users\mason\OneDrive\Documents\Github-projects\Maze-Solver\MazeSolver\Debug\MazeSolver.exe
