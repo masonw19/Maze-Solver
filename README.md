@@ -2,7 +2,7 @@
 
 This maze-solver implements the recursive Depth First Search algorithm in C++ so that we can find all paths to the exit of our maze. A depth first search follows each path as deeply as it can before considering alternate routes. 
 
-# Concept
+## Concept
 
 Use recursion to implement the DFS algorithm which will find and display the correct path through a maze with the following constraints:
 
@@ -13,7 +13,7 @@ Use recursion to implement the DFS algorithm which will find and display the cor
 5. We will always start at the top left position of the maze. 
 6. The exit of the maze will be any cell on the right hand side of the maze. 
 
-# Output
+## Output
 
 The output from the maze-solver program must display:
 
@@ -22,7 +22,7 @@ The output from the maze-solver program must display:
 3. Cheapest path, where cost is equal to the sum of the numbers in each cell of the path.
 4. Cheapest path's cost.
 
-# Example
+## Example
 
 ![example display](screenshots/example.png)
 
